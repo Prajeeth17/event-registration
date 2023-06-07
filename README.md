@@ -26,6 +26,8 @@ Validate the HTML and CSS code.
 ### Step 7:
 Publish the website in the given URL.
 
+## Design:
+![](/design.png)
 ## PROGRAM :
 ### Home page
 ```css
