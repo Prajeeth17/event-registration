@@ -347,7 +347,12 @@ top: 99px;
 background: url(LOGO.png);
 ```
 ## OUTPUT:
-
+### Home page:
+![home](/home.png)
+### Login Page:
+![login](/login.png)
+### SEC Page:
+![sec](/secpage.png)
 
 ## Result:
 Thus,a web application for event registration is designed and executed successfully.
